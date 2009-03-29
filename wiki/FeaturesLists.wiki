@@ -3,38 +3,38 @@
 
 = Recognition =
 
-|| *Feature* || *More Details* || *Status* ||
+|| *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || Test || Test || test ||
 
 || *Suggestions* ||
 
 
 = GUI =
-|| *Feature* || *More Details* || *Status* ||
+|| *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || Test || Test || test ||
 
 || *Suggestions* ||
 
 = Reasoning =
-|| *Feature* || *More Details* || *Status* ||
+|| *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || Test || Test || test ||
 
 || *Suggestions* ||
 
 = Rules =
-|| *Feature* || *More Details* || *Status* ||
+|| *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || Test || Test || test ||
 
 || *Suggestions* ||
 
 = Simulator =
-|| *Feature* || *More Details* || *Status* ||
+|| *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || Test || test || test ||
 
 || *Suggestions* ||
 
 = General Features =
-|| *#* || *Feature* || *More Details* || *Status* || *Member Working on it* ||
+|| *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || 1 || Plot 2D Charts || two-variables/two-dimensions -- Real Time data visualization || || ||
 || 2 || Plot 3D Charts || three-variables/three-dimensions -- Real Time data visualization || || ||
 || 3 || Learn from user drawings || Profile-based || || ||
