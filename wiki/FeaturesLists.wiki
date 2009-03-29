@@ -46,7 +46,7 @@
 || 2 || Mass-Aggregation Engine || Force Generators -- Springlike Systems || _In-progress_ || Magdy ||
 || 3 || Collision Detection System || || || Magdy ||
 || 4 || Rigid-Body Engine || || || Magdy ||
-|| Future Work ||
+|| *Future Work* ||
 || 5 || Enhance the integrator || Use other numerical integration methods (other than Euler) such as Midpoint or Runge-Kutta || || ||
 || 6 || Deformable Bodies || || || ||
 || 7 || Massive Collisions || || || ||
@@ -61,7 +61,7 @@
 || 3 || Interact with the simulation in real-time || Add forces -- select/move objects || || ||
 || 4 || Different Rendering Modes || || || ||
 || 5 || Further Enhancement to Visualization || || || ||
-|| 6 || Replay / Frame Play
+|| 6 || Replay/Frame Play || || || ||
 || 7 || 3D visualization for the 2D sketch || || || ||
 || 8 || Export the visualization to movie || || || ||
 || 9 || Sound! || || || ||
