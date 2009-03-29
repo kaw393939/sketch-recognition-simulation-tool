@@ -51,7 +51,7 @@
 ----
 ----
 
-= General Features =
+= General Needed Features =
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || 1 || Plot 2D Charts || two-variables/two-dimensions -- Real Time data visualization || || ||
 || 2 || Plot 3D Charts || three-variables/three-dimensions -- Real Time data visualization || || ||
