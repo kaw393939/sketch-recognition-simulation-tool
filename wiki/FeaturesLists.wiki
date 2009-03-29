@@ -33,7 +33,7 @@
 
 == Rules ==
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
-|| Test || Test || test ||  ||
+|| 1 || polygon rules || all rules about the polygon || none ||
 
 || *#* || *Suggestions* ||
 
