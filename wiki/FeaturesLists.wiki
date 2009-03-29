@@ -1,0 +1,43 @@
+#summary Lists of current/future/wanted Features
+#labels Featured
+
+= Recognition =
+
+|| *Feature* || *More Details* || *Status* ||
+|| Test || Test || test ||
+
+|| *Suggestions* ||
+
+
+= GUI =
+|| *Feature* || *More Details* || *Status* ||
+|| Test || Test || test ||
+
+|| *Suggestions* ||
+
+= Reasoning =
+|| *Feature* || *More Details* || *Status* ||
+|| Test || Test || test ||
+
+|| *Suggestions* ||
+
+= Rules =
+|| *Feature* || *More Details* || *Status* ||
+|| Test || Test || test ||
+
+|| *Suggestions* ||
+
+= Simulator =
+|| *Feature* || *More Details* || *Status* ||
+|| Test || test || test ||
+
+|| *Suggestions* ||
+
+= General Features =
+|| *#* || *Feature* || *More Details* || *Status* || *Member Working on it* ||
+|| 1 || Plot 2D Charts || two-variables/two-dimensions -- Real Time data visualization || || ||
+|| 2 || Plot 3D Charts || three-variables/three-dimensions -- Real Time data visualization || || ||
+|| 3 || Learn from user drawings || Profile-based || || ||
+|| 4 || 3D GUI/Editing || || || ||
+
+|| *Suggestions* ||
