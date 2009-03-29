@@ -33,9 +33,9 @@
 
 == Rules ==
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
-|| 1 || polygon rules || all rules about the polygon || none ||none
-|| 2|| gravity rules||all rules about gravity arraw||none||none
-||3|| pinjoint rules||all rules about the pinjoint and what is shapes attched wiz it||none||none
+|| 1 || polygon rules || all rules about the polygon || none 
+|| 2|| gravity rules||all rules about gravity arraw||none
+||3|| pinjoint rules||all rules about the pinjoint and what is shapes attched wiz it||none
 
 || *#* || *Suggestions* ||
 
