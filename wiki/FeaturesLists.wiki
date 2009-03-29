@@ -57,7 +57,7 @@
 == Graphical Layer ==
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || 1 || Simple Visualization || || *Done* ||  Magdy ||
-|| 2 || Enhance Visualization || || _In-progress- ||  Magdy ||
+|| 2 || Enhance Visualization || || _In-progress_ ||  Magdy ||
 || 3 || Interact with the simulation in real-time || Add forces -- select/move objects || || ||
 || 4 || Different Rendering Modes || || || ||
 || 5 || Further Enhancement to Visualization || || || ||
