@@ -33,9 +33,7 @@
 
 == Rules ==
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
-|| 1 || polygon rules || all rules about the polygon || none|| 
-|| 2|| gravity rules||all rules about gravity arraw||none||
-||3|| pinjoint rules||all rules about the pinjoint and what is shapes attched wiz it||none||
+|| 1 || polygon rules || all rules about the polygon || none ||
 
 || *#* || *Suggestions* ||
 
@@ -44,13 +42,39 @@
 = Simulator =
 == Physics engine ==
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
-|| Test || test || test ||  ||
+|| 1 || Particle Physics Engine || Laws of Motion -- Gravity || *Done* || Magdy ||
+|| 2 || Mass-Aggregation Engine || Force Generators -- Springlike Systems || _In-progress_ || Magdy ||
+|| 3 || Collision Detection System || || || Magdy ||
+|| 4 || Rigid-Body Engine || || || Magdy ||
+|| Future Work ||
+|| 5 || Enhance the integrator || Use other numerical integration methods (other than Euler) such as Midpoint or Runge-Kutta || || ||
+|| 6 || Deformable Bodies || || || ||
+|| 7 || Massive Collisions || || || ||
+
 
 || *#* || *Suggestions* ||
 
 == Graphical Layer ==
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
-|| Test || test || test ||  ||
+|| 1 || Simple Visualization || || *Done* ||  Magdy ||
+|| 2 || Enhance Visualization || || _In-progress- ||  Magdy ||
+|| 3 || Interact with the simulation in real-time || Add forces -- select/move objects || || ||
+|| 4 || Different Rendering Modes || || || ||
+|| 5 || Further Enhancement to Visualization || || || ||
+|| 6 || Replay / Frame Play
+|| 7 || 3D visualization for the 2D sketch || || || ||
+|| 8 || Export the visualization to movie || || || ||
+|| 9 || Sound! || || || ||
+
+
+|| *#* || *Suggestions* ||
+
+
+== Misc ==
+|| *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
+|| 1 || Analysis the Physical Model || || || ||
+|| 2 || Show the forces that cause the simulation/motion || || || ||
+|| 3 || Show the equations that cause the simulation/motion || || || ||
 
 || *#* || *Suggestions* ||
 
