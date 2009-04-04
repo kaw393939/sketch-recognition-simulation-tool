@@ -17,7 +17,27 @@
 
 == GUI ==
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
-|| Test || Test || test ||  ||
+|| 1 || Draw by mouse ||  || done  || Haidi ||
+|| 2 || Run Button ||  || done || Haidi ||
+|| 3 || Enhancement  || || || ||
+|| 4 || Enhancement by color || || || ||
+|| 5 || Menu Try Again ||  ||  || ||
+|| 6 || Delete ||  ||  ||
+|| 7 || Undo ||  ||  ||
+|| 8 || Redo || || || ||
+|| 9 || Select by point || || || ||
+|| 10 || Select by Menu || || || ||
+|| 11 || Select by circle || || || ||
+|| 12 || Move after selection || || || ||
+|| 13 || Colors || || || ||
+|| 14 || Full screen || || || ||
+|| 15 || Copy || || || ||
+|| 16 || Cut || || || ||
+|| 17 || Paste || || || ||
+|| 18 || Menu on the right that have all the details of objects || || || ||
+
+
+
 
 || *#* || *Suggestions* ||
 
