@@ -10,7 +10,11 @@
 == Recognizers == 
 
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
-|| Test || Test || test ||  ||
+|| 1 || Line ||  || Done || Haidi ||
+|| 2 || Circle ||  || Done || Haidi ||
+|| 3 || Rectangle ||  || Done || Haidi ||
+|| 4 || Ellipse ||  || Done || Haidi ||
+
 
 || *#* || *Suggestions* ||
 
