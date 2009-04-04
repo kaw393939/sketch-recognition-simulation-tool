@@ -14,6 +14,9 @@
 || 2 || Circle ||  || Done || Haidi ||
 || 3 || Rectangle ||  || Done || Haidi ||
 || 4 || Ellipse ||  || Done || Haidi ||
+|| 5 || Triangle ||  ||  ||  ||
+|| 6 || Polygon ||  ||  ||  ||
+|| 7 || Delete ||  ||  ||  ||
 
 
 || *#* || *Suggestions* ||
