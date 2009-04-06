@@ -54,13 +54,20 @@
 
 == Reasoning ==
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
-|| Test || Test || test ||  ||
+|| 1||relations of last stroke|| handle intersecton between strokes || done ||  mariam||
+|| 2|| relations of last stroke||handle if the last stroke inside other stroke || done || mariam ||
+|| 3|| relations of last stroke||handle if there is alot of shapes inside last stroke|| in progress || mariam ||
+|| 4|| structure of reasoning1||handle how to order list of interpretation for last stroke || done || maraim ||
+|| 5||structure of reasoning2||handle how to recognize group of last stroke on sureface  || in progress || mariam ||
 
 || *#* || *Suggestions* ||
 
 == Rules ==
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || 1 || polygon rules || all rules about the polygon || none ||
+|| 1 || circle rules || all rules about the pinjoint ||  none||
+|| 1 || force rules || all rules about the gravity arraw || none ||
+
 
 || *#* || *Suggestions* ||
 
