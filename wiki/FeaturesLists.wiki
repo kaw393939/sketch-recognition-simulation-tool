@@ -79,7 +79,7 @@
 || 1 || Particle Physics Engine || Laws of Motion -- Gravity || *Done* || Magdy ||
 || 2 || Mass-Aggregation Engine || Force Generators -- Springlike Systems || _In-progress_ || Magdy ||
 || 3 || Collision Detection System || || || Magdy ||
-|| 4 || Rigid-Body Engine || || || Magdy ||
+|| 4 || Rigid-Body Engine || || _In-progress_ || Magdy ||
 || *Future Work* ||
 || 5 || Enhance the integrator || Use other numerical integration methods (other than Euler) such as Midpoint or Runge-Kutta || || ||
 || 6 || Deformable Bodies || || || ||
