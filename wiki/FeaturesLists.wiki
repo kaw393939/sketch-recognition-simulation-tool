@@ -14,7 +14,7 @@
 || 2 || Circle ||  || Done || Haidi ||
 || 3 || Rectangle ||  || Done || Haidi ||
 || 4 || Ellipse ||  || Done || Haidi ||
-|| 5 || Triangle ||  ||  ||  ||
+|| 5 || Triangle ||  || Done || Haidi ||
 || 6 || Polygon ||  ||  ||  ||
 || 7 || Delete ||  ||  ||  ||
 
@@ -24,24 +24,24 @@
 
 == GUI ==
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
-|| 1 || Draw by mouse ||  || done  || Haidi ||
-|| 2 || Run Button ||  || done || Haidi ||
-|| 3 || Enhancement  || || || ||
-|| 4 || Enhancement by color || || || ||
-|| 5 || Menu Try Again ||  ||  || ||
+|| 1 || Draw by mouse ||  || Done   || Haidi ||
+|| 2 || Run Button ||  || Done  || Haidi ||
+|| 3 || Enhancement  || || Done || Haidi ||
+|| 4 || Enhancement by color || || Done || Haidi ||
+|| 5 || Menu Try Again ||  || Done || Haidi ||
 || 6 || Delete ||  ||  ||
 || 7 || Undo ||  ||  ||
 || 8 || Redo || || || ||
 || 9 || Select by point || || || ||
 || 10 || Select by Menu || || || ||
 || 11 || Select by circle || || || ||
-|| 12 || Move after selection || || || ||
-|| 13 || Colors || || || ||
+|| 12 || Move after selection || || Done || Haidi ||
+|| 13 || Colors || || Done || Haidi ||
 || 14 || Full screen || || || ||
-|| 15 || Copy || || || ||
-|| 16 || Cut || || || ||
-|| 17 || Paste || || || ||
-|| 18 || Menu on the right that have all the details of objects || || || ||
+|| 15 || Copy || || Done || Haidi ||
+|| 16 || Cut || || Done || Haidi ||
+|| 17 || Paste || || Done || Haidi ||
+|| 18 || Menu on the right that have all the details of objects || To-Complete: Show more details || Done || Haidi ||
 
 
 
