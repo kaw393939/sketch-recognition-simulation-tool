@@ -78,8 +78,8 @@
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || 1 || Particle Physics Engine || Laws of Motion -- Gravity || *Done* || Magdy ||
 || 2 || Mass-Aggregation Engine || Force Generators -- Springlike Systems || _In-progress_ || Magdy ||
-|| 3 || Collision Detection System || || || Magdy ||
-|| 4 || Rigid-Body Engine || || _In-progress_ || Magdy ||
+|| 3 || Collision Detection System || || Done || Magdy ||
+|| 4 || Rigid-Body Engine || || Done || Magdy ||
 || *Future Work* ||
 || 5 || Enhance the integrator || Use other numerical integration methods (other than Euler) such as Midpoint or Runge-Kutta || || ||
 || 6 || Deformable Bodies || || || ||
@@ -92,11 +92,11 @@
 || *#* || *Feature* || *More Details* || *Status* || *Member(s) Working on it* ||
 || 1 || Simple Visualization || || *Done* ||  Magdy ||
 || 2 || Enhance Visualization || || _In-progress_ ||  Magdy ||
-|| 3 || Interact with the simulation in real-time || Add forces -- select/move objects || || ||
+|| 3 || Interact with the simulation in real-time || Add forces -- select/move objects || Done || Magdy ||
 || 4 || Different Rendering Modes || || || ||
 || 5 || Further Enhancement to Visualization || || || ||
-|| 6 || Replay/Frame Play || || || ||
-|| 7 || 3D visualization for the 2D sketch || || || ||
+|| 6 || Replay/Frame Play || || Done || Magdy ||
+|| 7 || 3D visualization for the 2D sketch || || Done || Magdy ||
 || 8 || Export the visualization to movie || || || ||
 || 9 || Sound! || || || ||
 
