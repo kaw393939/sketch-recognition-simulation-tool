@@ -29,11 +29,11 @@
 || 3 || Enhancement  || || Done || Haidi ||
 || 4 || Enhancement by color || || Done || Haidi ||
 || 5 || Menu Try Again ||  || Done || Haidi ||
-|| 6 || Delete ||  ||  ||
-|| 7 || Undo ||  ||  ||
-|| 8 || Redo || || || ||
+|| 6 || Delete ||  || Done || Haidi ||
+|| 7 || Undo ||  || Done || Haidi ||
+|| 8 || Redo || || Done || Haidi ||
 || 9 || Select by point || || || ||
-|| 10 || Select by Menu || || || ||
+|| 10 || Select by Menu || || Done || Haidi ||
 || 11 || Select by circle || || || ||
 || 12 || Move after selection || || Done || Haidi ||
 || 13 || Colors || || Done || Haidi ||
